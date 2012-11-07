@@ -1,4 +1,5 @@
 zh_CN:
   helpers:
       check_box:
+        user:
           remember_me: '记住我'
