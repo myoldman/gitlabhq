@@ -39,7 +39,11 @@ class ApplicationController < ActionController::Base
       super
     end
   end
-
+  
+  def after_sign_up_path_for resource
+      super
+  end
+  
   def set_current_user_for_observers
     MergeRequestObserver.current_user = current_user
     IssueObserver.current_user = current_user
