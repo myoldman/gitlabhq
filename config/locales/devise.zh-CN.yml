@@ -104,5 +104,7 @@ zh-CN:
       sign_out: '退出'
       change_password: '修改密码'
       change_registration: '修改登记'
-
-
+    helpers:
+      label:
+        user:
+          remember_me: '记住我'
