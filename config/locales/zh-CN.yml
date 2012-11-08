@@ -2,3 +2,7 @@ zh_CN:
   users:
     sign_up:
       email: "邮件地址"
+  helpers:
+    label:
+      user:
+        email: "邮件地址"
