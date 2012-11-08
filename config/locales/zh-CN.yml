@@ -3,3 +3,6 @@ zh_CN:
       check_box:
         user:
           remember_me: '记住我'
+      label:
+        user:
+          remember_me: '记住我'
