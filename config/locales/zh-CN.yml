@@ -1,8 +1,5 @@
 zh_CN:
-  helpers:
-      check_box:
-        user:
-          remember_me: '记住我'
-      label:
-        user:
-          remember_me: '记住我'
+  activerecord:
+   attribute:
+       user:
+          username: "记住我"
