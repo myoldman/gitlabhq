@@ -1,5 +1,4 @@
 zh_CN:
-  activerecord:
-   attribute:
-       user:
-          email: "邮件地址"
+  user:
+    sign_up:
+      email: "邮件地址"
