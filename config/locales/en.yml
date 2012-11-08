@@ -11,4 +11,5 @@ en:
       
   helpers:
     lable:
-      email: "expire"
+      user:
+        email: "expire"
