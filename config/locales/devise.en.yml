@@ -54,3 +54,24 @@ en:
         subject: 'Reset password instructions'
       unlock_instructions:
         subject: 'Unlock Instructions'
+    activemodel:
+      errors:
+        <<: *errors
+    activerecord:
+      errors:
+        <<: *errors
+      models:
+        user: "Usuário"
+        article: "Artigo"
+      attributes:
+        user:
+          email: "E-mail"
+          password: "Senha"
+          password_confirmation: "Confirmar Senha"
+          current_password: "Senha Atual"
+          remember_me: "Lembre-se de mim"
+        article:
+          title: "Título"
+          body: "Conteúdo"
+          body_html: "Conteúdo em HTML"
+
