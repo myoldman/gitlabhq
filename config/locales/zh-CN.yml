@@ -1,5 +1,1 @@
 zh_CN:
-  activerecord:
-    attributes:
-      user:
-        email: "E-mail"
