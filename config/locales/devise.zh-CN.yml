@@ -105,8 +105,6 @@ zh-CN:
       change_password: '修改密码'
       change_registration: '修改登记'
   activerecord:
-    errors:
-      <<: *errors
     models:
       user: "Usuário"
       article: "Artigo"
