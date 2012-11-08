@@ -2,4 +2,4 @@ zh_CN:
   activerecord:
    attribute:
        user:
-          username: "记住我"
+          email: "邮件地址"
