@@ -110,8 +110,8 @@ zh-CN:
       article: "Artigo"
     attributes:
       user:
-        email: "E-mail"
-        password: "Senha"
-        password_confirmation: "Confirmar Senha"
-        current_password: "Senha Atual"
-        remember_me: "Lembre-se de mim"
+        email: "电子邮件
+        password: "密码"
+        password_confirmation: "密码确认"
+        current_password: "当前密码"
+        remember_me: "记住我"
