@@ -110,7 +110,7 @@ zh-CN:
       article: "Artigo"
     attributes:
       user:
-        email: "电子邮件
+        email: "电子邮件"
         password: "密码"
         password_confirmation: "密码确认"
         current_password: "当前密码"
